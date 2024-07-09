@@ -19,5 +19,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         Log.d("SPRINT_8", "Hello, world!")
+        Log.d("SPRINT_8", "Hello, world 2 !")
+
     }
 }
